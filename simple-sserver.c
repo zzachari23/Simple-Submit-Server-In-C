@@ -14,9 +14,7 @@
  *ID: zzachari
  *UID: 177656893
  *Section: 0106
- *
- *I pledge on my honor that I have not given or received any
- *unauthorized assistance on this examination (or assignment).
+
  *
  *Program Overview: The program will be simulating a small part of
  *the CS submit server. The program will run some commands to 
